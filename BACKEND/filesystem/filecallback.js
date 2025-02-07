@@ -8,5 +8,6 @@ const read = ()=>{
         }
     });
 }
-read();
-console.log("complete me first");
+// read();
+// console.log("complete me first");
+module.exports=read;
